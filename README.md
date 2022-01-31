@@ -1,4 +1,4 @@
-#READ ME
+# BIRTHDAY CARD
 
 Birthday card app for Android.
 
